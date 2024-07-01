@@ -65,12 +65,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="Anjali7070/Anjali7070/.github/workflows/snake.yml" alt="Snake animation" />
-
-###
-
 <h3 align="left">👾Profile Views :</h3>
 
 ###
