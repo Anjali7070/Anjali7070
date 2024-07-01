@@ -1,4 +1,4 @@
-<h2 align="left">✨ About me !</h2>
+<h1 align="left">✨ About me !</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">🔥My Stats :</h3>
+<h2 align="left">🔥My Stats :</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">💻Tech Stacks :</h3>
+<h2 align="left">💻Tech Stacks :</h2>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="left">🪩Socials :</h3>
+<h2 align="left">🪩Socials :</h2>
 
 ###
 
@@ -61,11 +61,7 @@
 
 ###
 
-<h3 align="left">🌟My Contributions :</h3>
-
-###
-
-<h3 align="left">👾Profile Views :</h3>
+<h2 align="left">👾Profile Views :</h2>
 
 ###
 
