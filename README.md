@@ -1,8 +1,8 @@
-<h1 align="left">✨ About me !</h1>
+<h1 align="left">👋 Hi, I am Anjali !</h1>
 
 ###
 
-<h6 align="left">Hey there ! 👋 My name is Anjali and currently I am pursuing my B.Tech from National Institute of Technology (NIT), Patna in Electronics and Communication Engineering department. I am in pre-final year with a strong focus on Data Structures and Analysis, and Web Development. With a passion for coding and creating user-friendly digital experiences, I am dedicated to honing my skills in web development. Eager to leverage my technical expertise to design innovative solutions and make a meaningful impact in the world of web technology.💫✨</h6>
+<h3 align="left">A pre-final year student at National Institute of Technology (NIT), Patna with a strong focus on Data Structures and Analysis, and Web Development. With a passion for coding and creating user-friendly digital experiences, I am dedicated to honing my skills in web development. Eager to leverage my technical expertise to design innovative solutions and make a meaningful impact in the world of web technology.💫✨</h3>
 
 ###
 
@@ -57,10 +57,4 @@
 
 ###
 
-<h2 align="left">👾Profile Views :</h2>
 
-###
-
-<img align="left" src="https://profile-counter.glitch.me/Anjali7070/count.svg?"  />
-
-###
