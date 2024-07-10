@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">A pre-final year student at National Institute of Technology (NIT), Patna with a strong focus on Data Structures and Analysis, and Web Development. With a passion for coding and creating user-friendly digital experiences, I am dedicated to honing my skills in web development. Eager to leverage my technical expertise to design innovative solutions and make a meaningful impact in the world of web technology.💫✨</h4>
+<h4 align="left">A pre-final year student at National Institute of Technology (NIT), Patna with a strong focus on Data Structures and Analysis, and Web Development. With a passion for coding and creating user-friendly digital experiences, I am dedicated to honing my skills in web development. Eager to leverage my technical expertise to design innovative solutions and make a meaningful impact in the world of web technology.💫</h4>
 
 ###
 
