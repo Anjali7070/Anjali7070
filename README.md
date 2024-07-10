@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🔥My Stats :</h2>
+<h3 align="left">🔥My Stats :</h3>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">💻Tech Stacks :</h2>
+<h3 align="left">💻Tech Stacks :</h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="left">🪩Socials :</h2>
+<h3 align="left">🪩Socials :</h3>
 
 ###
 
