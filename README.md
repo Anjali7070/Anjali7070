@@ -1,8 +1,8 @@
-<h1 align="left">👋Hi there!</h1>
+<h2 align="left">✨ About me !</h2>
 
 ###
 
-<h4 align="left">A pre-final year student at National Institute of Technology (NIT), Patna with a strong focus on Data Structures and Analysis, and Web Development. With a passion for coding and creating user-friendly digital experiences, I am dedicated to honing my skills in web development. Eager to leverage my technical expertise to design innovative solutions and make a meaningful impact in the world of web technology.💫</h4>
+<h6 align="left">Hey there ! 👋 My name is Anjali and currently I am pursuing my B.Tech from National Institute of Technology (NIT), Patna in Electronics and Communication Engineering department. I am in pre-final year with a strong focus on Data Structures and Analysis, and Web Development. With a passion for coding and creating user-friendly digital experiences, I am dedicated to honing my skills in web development. Eager to leverage my technical expertise to design innovative solutions and make a meaningful impact in the world of web technology.💫✨</h6>
 
 ###
 
@@ -46,15 +46,11 @@
 
 <div align="left">
   <a href="https://linkedin.com/in/anjali-kumari-ak707" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-
   <a href="https://www.instagram.com/anjali.ak_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
- 
 </div>
 
 ###
-
-
